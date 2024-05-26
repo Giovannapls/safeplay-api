@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|c:\\users\\giova\\source\\repos\\apisafeplay\\apisafeplay\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C105CACF-594C-40AF-BAD0-EA0F479C6E6F}|ApiSafePlay\\ApiSafePlay.csproj|solutionrelative:apisafeplay\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Models\\Tournament.cs",
+              "RelativeToolTip": "ApiSafePlay\\Models\\Tournament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:05:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AchievementsController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\AchievementsController.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Controllers\\AchievementsController.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\AchievementsController.cs",
+              "RelativeToolTip": "ApiSafePlay\\Controllers\\AchievementsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:04:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Controllers\\TournamentsController.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "ApiSafePlay\\Controllers\\TournamentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:03:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ApiSafePlay\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvy0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:02:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ApiSafePlay\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:01:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Program.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Program.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Program.cs",
+              "RelativeToolTip": "ApiSafePlay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:53:55.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Models\\Report.cs",
+              "RelativeToolTip": "ApiSafePlay\\Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:53:37.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "ApiSafePlay\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ApiSafePlay\\ApiSafePlay\\Models\\Game.cs",
+              "RelativeToolTip": "ApiSafePlay\\Models\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:52:14.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
