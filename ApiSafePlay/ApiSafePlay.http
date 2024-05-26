@@ -1,6 +1,133 @@
-@ApiSafePlay_HostAddress = http://localhost:5093
+@apiSafePlay_HostAddress = http://localhost:5093
 
-GET {{ApiSafePlay_HostAddress}}/weatherforecast/
+
+
+# Reports Endpoints
+GET {{apiSafePlay_HostAddress}}/reports
 Accept: application/json
 
-###
+GET {{apiSafePlay_HostAddress}}/reports/1
+Accept: application/json
+
+POST {{apiSafePlay_HostAddress}}/reports
+Content-Type: application/json
+{
+    "userId": 1,
+    "creationTime": "2023-01-01T12:00:00Z",
+    "incidentTime": "2023-01-01T12:00:00Z",
+    "attachments": null,
+    "description": "Sample report"
+}
+
+PUT {{apiSafePlay_HostAddress}}/reports/1
+Content-Type: application/json
+{
+    "id": 1,
+    "userId": 1,
+    "creationTime": "2023-01-01T12:00:00Z",
+    "incidentTime": "2023-01-01T12:00:00Z",
+    "attachments": null,
+    "description": "Updated report"
+}
+
+DELETE {{apiSafePlay_HostAddress}}/reports/1
+
+### Users Endpoints
+GET {{apiSafePlay_HostAddress}}/users
+Accept: application/json
+
+GET {{apiSafePlay_HostAddress}}/users/1
+Accept: application/json
+
+POST {{apiSafePlay_HostAddress}}/users
+Content-Type: application/json
+{
+    "name": "John Doe",
+    "nickname": "johnd",
+    "biography": "Sample biography",
+    "categories": [],
+    "games": [],
+    "timePlayed": 0.0,
+    "matchesPlayed": 0,
+    "tournaments": 0,
+    "favoriteGame": null
+}
+
+PUT {{apiSafePlay_HostAddress}}/users/1
+Content-Type: application/json
+{
+    "id": 1,
+    "name": "John Doe",
+    "nickname": "johnd",
+    "biography": "Updated biography",
+    "categories": [],
+    "games": [],
+    "timePlayed": 10.5,
+    "matchesPlayed": 5,
+    "tournaments": 2,
+    "favoriteGame": null
+}
+
+DELETE {{apiSafePlay_HostAddress}}/users/1
+
+###Achievements Endpoints
+
+GET {{apiSafePlay_HostAddress}}/achievements
+Accept: application/json
+
+GET {{apiSafePlay_HostAddress}}/achievements/1
+Accept: application/json
+
+POST {{apiSafePlay_HostAddress}}/achievements
+Content-Type: application/json
+{
+    "icon": null,
+    "description": "Sample achievement"
+}
+
+PUT {{apiSafePlay_HostAddress}}/achievements/1
+Content-Type: application/json
+{
+    "id": 1,
+    "icon": null,
+    "description": "Updated achievement"
+}
+
+DELETE {{apiSafePlay_HostAddress}}/achievements/1
+
+### Tournaments Endpoints
+
+GET {{apiSafePlay_HostAddress}}/tournaments
+Accept: application/json
+
+GET {{apiSafePlay_HostAddress}}/tournaments/1
+Accept: application/json
+
+POST {{apiSafePlay_HostAddress}}/tournaments
+Content-Type: application/json
+{
+    "participantIds": [],
+    "description": "Sample tournament",
+    "icon": null,
+    "game": null,
+    "premiation": 100.0,
+    "startDate": "2023-01-01T12:00:00Z",
+    "endDate": "2023-01-02T12:00:00Z",
+    "status": "Planned"
+}
+
+PUT {{apiSafePlay_HostAddress}}/tournaments/1
+Content-Type: application/json
+{
+    "id": 1,
+    "participantIds": [],
+    "description": "Updated tournament",
+    "icon": null,
+    "game": null,
+    "premiation": 150.0,
+    "startDate": "2023-01-01T12:00:00Z",
+    "endDate": "2023-01-03T12:00:00Z",
+    "status": "Active"
+}
+
+DELETE {{apiSafePlay_HostAddress}}/tournaments/1
